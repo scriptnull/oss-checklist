@@ -5,7 +5,7 @@
 - [ ] Choose a name for the project
 - [ ] Check if domain name / App name is available ?
 - [ ] List and learn tools required for the project
-- [ ] Prepare mockups and one page design document, if needed to explain to collaborators
+- [ ] Prepare mock-up and one page design document, if needed to explain to collaborators
 - [ ] List previous / similar implementations and learn from them
 - [ ] Start a blog post to document the journey ( if time permits ) Mention idea + helpful resources.
 - [ ] Ask if project could be solved in a modular way by dividing into sub-problems and creating a separate project for the sub-problems.
@@ -27,7 +27,7 @@
 - [ ] Logo
 - [ ] Badges
 - [ ] Description
-- [ ] Prequisites for using software ( if any )
+- [ ] Prerequisite for using software ( if any )
 - [ ] Install
 - [ ] Example Usage
 - [ ] Screenshots and GIFs
