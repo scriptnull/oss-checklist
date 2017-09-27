@@ -1,0 +1,6 @@
+language: none
+
+build:
+  ci:
+    - npm i markdown-spellcheck -g
+    - mdspell -r checklist.md
