@@ -31,3 +31,9 @@ Please report any security vulnerabilities of this project to [keybase.io/script
 ```bash
 curl https://keybase.io/scriptnull/pgp_keys.asc | gpg --import
 ```
+### License
+Any code inside this repository is Licensed under [MIT License](https://github.com/scriptnull/oss-checklist/blob/master/LICENSE)
+
+[The checklist](https://github.com/scriptnull/oss-checklist/blob/master/checklist.md) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
