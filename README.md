@@ -7,6 +7,8 @@
 
 Checklist for building Open Source Software
 
+Read the [full checklist from here](https://github.com/scriptnull/oss-checklist/blob/master/checklist.md) ([Raw View](https://raw.githubusercontent.com/scriptnull/oss-checklist/master/checklist.md))
+
 ### Copy checklist to clipboard
 On mac
 ```bash
@@ -21,7 +23,7 @@ Copy the contents from [here](https://raw.githubusercontent.com/scriptnull/oss-c
 Please check [CONTRIBUTING.md](https://github.com/scriptnull/oss-checklist/blob/master/CONTRIBUTING.md) if you are interested in contributing.
 
 ### Attributions
-This project is inspired by [karllhughes/side-project-marketing](https://github.com/karllhughes/side-project-marketing).But, oss-checklist tried to compile more aspects of a software project.
+This project is inspired by [karllhughes/side-project-marketing](https://github.com/karllhughes/side-project-marketing). But, oss-checklist tries to compile more aspects of a software project ( not just marketing ).
 
 ### Security
 Please report any security vulnerabilities of this project to [keybase.io/scriptnull](https://keybase.io/scriptnull)
