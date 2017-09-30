@@ -5,7 +5,9 @@
   oss-checklist
 </h1>
 
-Checklist for building Open Source Software
+[![Build Status](https://semaphoreci.com/api/v1/scriptnull/oss-checklist/branches/master/badge.svg)](https://semaphoreci.com/scriptnull/oss-checklist)
+
+Checklist for building Open Source Software.
 
 Read the [full checklist from here](https://github.com/scriptnull/oss-checklist/blob/master/checklist.md) ([Raw View](https://raw.githubusercontent.com/scriptnull/oss-checklist/master/checklist.md))
 
