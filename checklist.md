@@ -66,6 +66,7 @@
 ## Release Phase
 - [ ] Package software in CI or manually in local
 - [ ] Publish in registries (npm, docker hub etc.) or markets (Android store, App Store etc.)
+- [ ] Create the release version, description, link for downloading the release etc. in release page ( example: Github release page)
 
 ## Post-release
 - [ ] Publish the blog post
@@ -76,4 +77,5 @@
 - [ ] [Redit](https://www.reddit.com)
 - [ ] [Hashnode](https://hashnode.com/)
 - [ ] [Linkedin](https://www.linkedin.com/)
+- [ ] Edit Wikipedia pages (if related)
 - [ ] Prepare slides and give talks (if possible)
