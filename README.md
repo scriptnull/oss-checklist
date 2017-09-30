@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img width="50" height="50" src="https://raw.githubusercontent.com/scriptnull/oss-checklist/master/art.png" alt="oss-checklist">
+	<img width="160" height="160" src="https://raw.githubusercontent.com/scriptnull/oss-checklist/master/logo.png" alt="oss-checklist">
 	<br>
   oss-checklist
 </h1>
