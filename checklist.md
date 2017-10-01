@@ -74,7 +74,7 @@
 - [ ] [Hackernews](https://news.ycombinator.com/)
 - [ ] [Product Hunt](http://producthunt.com/)
 - [ ] Send PR to `awesome-*` github repository
-- [ ] [Redit](https://www.reddit.com)
+- [ ] [Reddit](https://www.reddit.com)
 - [ ] [Hashnode](https://hashnode.com/)
 - [ ] [Linkedin](https://www.linkedin.com/)
 - [ ] Edit Wikipedia pages (if related)
