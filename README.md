@@ -16,6 +16,10 @@ On mac
 ```bash
 curl -L https://raw.githubusercontent.com/scriptnull/oss-checklist/master/checklist.md | pbcopy
 ```
+On linux
+```bash
+curl -L https://raw.githubusercontent.com/scriptnull/oss-checklist/master/checklist.md | xclip -selection clipboard
+```
 
 ### Track via Github
 Copy the contents from [here](https://raw.githubusercontent.com/scriptnull/oss-checklist/master/checklist.md) and open an issue.
