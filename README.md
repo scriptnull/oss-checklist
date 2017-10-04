@@ -12,15 +12,15 @@ Checklist for building Open Source Software.
 Read the [full checklist from here](https://github.com/scriptnull/oss-checklist/blob/master/checklist.md) ([Raw View](https://raw.githubusercontent.com/scriptnull/oss-checklist/master/checklist.md))
 
 ### Copy checklist to clipboard
-On mac
+On Mac
 ```bash
 curl -L https://raw.githubusercontent.com/scriptnull/oss-checklist/master/checklist.md | pbcopy
 ```
-On linux
+On Linux
 ```bash
 curl -L https://raw.githubusercontent.com/scriptnull/oss-checklist/master/checklist.md | xclip -selection clipboard
 ```
-On windows
+On Windows
 ```bash
 curl -L https://raw.githubusercontent.com/scriptnull/oss-checklist/master/checklist.md | clip
 ```
