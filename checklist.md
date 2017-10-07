@@ -1,5 +1,7 @@
 # OSS Project Checklist
 
+A copy of the below checklist could be obtained from https://github.com/scriptnull/oss-checklist (Help us make it better!)
+
 ## Pre-checks
 - [ ] Able to explain your project in a tweet ?
 - [ ] Choose a name for the project
