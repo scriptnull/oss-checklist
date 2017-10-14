@@ -53,7 +53,6 @@ A copy of the below checklist could be obtained from https://github.com/scriptnu
     - [ ] Formatter
     - [ ] Build Tool
     - [ ] Other
-- [ ] Organise files and folders that will help readers to find code easily
 - [ ] Basic code complete
 - [ ] Write tests and keep watch on code coverage
 - [ ] Setup CI
