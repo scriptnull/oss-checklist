@@ -48,11 +48,11 @@ A copy of the below checklist could be obtained from https://github.com/scriptnu
 
 ## Coding Phase
 - [ ] Install required developer tools
-    - [ ] Compiler
-    - [ ] Linter
-    - [ ] Formatter
-    - [ ] Build Tool
-    - [ ] Other
+    - Compiler
+    - Linter
+    - Formatter
+    - Build Tool
+    - Other
 - [ ] Organise files and folders that will help readers to find code easily
 - [ ] Basic code complete
 - [ ] Write tests and keep watch on code coverage
