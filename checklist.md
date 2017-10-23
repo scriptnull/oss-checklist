@@ -61,7 +61,7 @@ A copy of the below checklist could be obtained from https://github.com/scriptnu
     - [Codefresh](https://codefresh.io/) - Docker-native CI/CD.
     - [Codeship](https://codeship.com/) - Continuous integration, delivery, and deployment.
     - [continuousphp](https://continuousphp.com/) - CI/CD for PHP applications.
-    - [DeployHQ](https://www.deployhq.com/) `requires-approval` - Deployment automation.
+    - [DeployHQ](https://www.deployhq.com/) - Deployment automation.
     - [Sauce Labs](https://saucelabs.com/) - Cross-browser testing, Selenium testing, and mobile testing.
     - [Semaphore](https://semaphoreci.com/) - Fast automated CI/CD.
     - [Shippable](https://www.shippable.com/) - DevOps automation.

@@ -35,6 +35,8 @@ Please check [CONTRIBUTING.md](https://github.com/scriptnull/oss-checklist/blob/
 ### Attributions
 This project is inspired by [karllhughes/side-project-marketing](https://github.com/karllhughes/side-project-marketing). But, oss-checklist tries to compile more aspects of a software project ( not just marketing ).
 
+List of CI is derived from [awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters).
+
 ### Security
 Please report any security vulnerabilities of this project to [keybase.io/scriptnull](https://keybase.io/scriptnull)
 
